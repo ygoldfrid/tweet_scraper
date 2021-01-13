@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ygoldfrid/tweet_scraper/blob/main/Tweets.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ygoldfrid/tweet_scraper/blob/main/Tweets.ipynb)
 
 # Tweet Scraper
 Get all the info of the latest tweets given a certain query (for example #covid)
