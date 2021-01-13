@@ -9,3 +9,6 @@ pip install pandas
 ```
 ## Usage
 The notebook is pretty self-explanatory, just type in the query you want to look for and the number of tweets you want to get and run the code!
+
+## Acknowledgements
+Huge thanks to [JustAnotherArchivist](https://github.com/JustAnotherArchivist) for creating the powerful [snscrape](https://github.com/JustAnotherArchivist/snscrape) library
